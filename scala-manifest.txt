@@ -1,0 +1,2 @@
+Class-Path: lib/compile/dom4j-1.6.1.jar lib/compile/vijava55b20130927.jar lib/compile/scala-library-2.13.8.jar
+Main-Class: com.kamran.scala.Runner
